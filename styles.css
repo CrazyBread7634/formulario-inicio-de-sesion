@@ -1,0 +1,17 @@
+
+main{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.header{
+    height: 15%;
+}
+.tit1{
+    margin: 15px;
+}
+.img1{
+    height: 80%;
+    width: 80%;
+    margin: 5%;
+}
